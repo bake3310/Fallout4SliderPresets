@@ -1,0 +1,52 @@
+<SliderPresets>
+    <Preset name="Josie JC Shirt and Jeans" set="JC-Shirt and Jeans">
+        <Group name="CBBE"/>
+        <Group name="CBBE Armor"/>
+        <Group name="CBBE Clothes"/>
+        <Group name="Evr Amr Prt"/>
+        <Group name="Honest Abe"/>
+        <Group name="JC-SnJ"/>
+        <SetSlider name="Ankles" size="big" value="25"/>
+        <SetSlider name="AppleCheeks" size="big" value="50"/>
+        <SetSlider name="BackArch" size="big" value="0"/>
+        <SetSlider name="Belly" size="big" value="-20"/>
+        <SetSlider name="BreastCenter" size="big" value="100"/>
+        <SetSlider name="BreastCenterBig" size="big" value="100"/>
+        <SetSlider name="BreastFantasy" size="big" value="45"/>
+        <SetSlider name="BreastFlatness2" size="big" value="20"/>
+        <SetSlider name="BreastGravity2" size="big" value="35"/>
+        <SetSlider name="BreastHeight" size="big" value="70"/>
+        <SetSlider name="BreastPerkiness" size="big" value="20"/>
+        <SetSlider name="BreastTopSlope" size="big" value="0"/>
+        <SetSlider name="BreastWidth" size="big" value="-70"/>
+        <SetSlider name="Breasts" size="big" value="100"/>
+        <SetSlider name="BreastsCleavage" size="big" value="0"/>
+        <SetSlider name="BreastsNewSH" size="big" value="20"/>
+        <SetSlider name="BreastsTogether" size="big" value="34"/>
+        <SetSlider name="Butt" size="big" value="100"/>
+        <SetSlider name="ButtNew" size="big" value="100"/>
+        <SetSlider name="ButtShape2" size="big" value="0"/>
+        <SetSlider name="CalfSize" size="big" value="35"/>
+        <SetSlider name="ChestDepth" size="big" value="0"/>
+        <SetSlider name="ChubbyWaist" size="big" value="25"/>
+        <SetSlider name="CrotchBack" size="big" value="50"/>
+        <SetSlider name="DeletedFaces" size="big" value="100"/>
+        <SetSlider name="DoubleMelon" size="big" value="0"/>
+        <SetSlider name="Groin" size="big" value="0"/>
+        <SetSlider name="HipBone" size="big" value="0"/>
+        <SetSlider name="HipUpperWidth" size="big" value="-30"/>
+        <SetSlider name="LegShape" size="big" value="100"/>
+        <SetSlider name="NipBGone" size="big" value="100"/>
+        <SetSlider name="PushUp" size="big" value="31"/>
+        <SetSlider name="RoundAss" size="big" value="0"/>
+        <SetSlider name="ShoulderTweak" size="big" value="100"/>
+        <SetSlider name="ShoulderWidth" size="big" value="100"/>
+        <SetSlider name="SternumDepth" size="big" value="0"/>
+        <SetSlider name="SternumHeight" size="big" value="0"/>
+        <SetSlider name="Thighs" size="big" value="25"/>
+        <SetSlider name="TummyTuck" size="big" value="0"/>
+        <SetSlider name="Waist" size="big" value="75"/>
+        <SetSlider name="WaistHeight" size="big" value="31"/>
+        <SetSlider name="WideWaistLine" size="big" value="0"/>
+    </Preset>
+</SliderPresets>

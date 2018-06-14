@@ -1,0 +1,70 @@
+<SliderPresets>
+    <Preset name="Nina 1.3 Body" set="CBBE Body Physics">
+        <Group name="1StandardKit"/>
+        <Group name="2pac Skimpy MAIN"/>
+        <Group name="2pac bos unform option 1"/>
+        <Group name="2pac bos unform option 2"/>
+        <Group name="2pac vault suit with pants"/>
+        <Group name="2pac vault suit with shorts"/>
+        <Group name="CBBE"/>
+        <Group name="CBBE Bodies"/>
+        <Group name="CBBE Vanilla Outfits"/>
+        <Group name="Courser X-92 Power Suit"/>
+        <Group name="EvilDetective_CBBE"/>
+        <Group name="Honest Abe"/>
+        <Group name="Honest Abe Physics"/>
+        <Group name="JC-SnJ"/>
+        <Group name="Lacy Underwear"/>
+        <Group name="Lazman Replacer Outfits"/>
+        <Group name="LazmanDresses"/>
+        <Group name="Military Operator"/>
+        <Group name="Military Operator M"/>
+        <Group name="Pampas"/>
+        <Group name="Pampas Physics Replacers"/>
+        <Group name="RXL Armorsmith Extended"/>
+        <Group name="RXL Colossus Bodysuit"/>
+        <Group name="RXL Jackets and Coats"/>
+        <Group name="RXL calyps Daisy Nukes"/>
+        <Group name="RXL calyps Harness Wardobe"/>
+        <Group name="RXL calyps Nevernude"/>
+        <Group name="Sirius.12 Suit V1"/>
+        <Group name="Sporty Underwear"/>
+        <Group name="Super Hero Body"/>
+        <Group name="Tac_Group"/>
+        <Group name="xy - All Outfits"/>
+        <Group name="xy - Cait Corset (Deep Cleavage)"/>
+        <Group name="xy - Feathered Dress (Irma)"/>
+        <Group name="xy - Grognak Costume"/>
+        <Group name="xy - Misty Outfit"/>
+        <Group name="xy - Sturges (No Shirt)"/>
+        <SetSlider name="Ankles" size="big" value="100"/>
+        <SetSlider name="AppleCheeks" size="big" value="100"/>
+        <SetSlider name="Belly" size="big" value="15"/>
+        <SetSlider name="BreastCenterBig" size="big" value="100"/>
+        <SetSlider name="BreastWidth" size="big" value="100"/>
+        <SetSlider name="Breasts" size="big" value="100"/>
+        <SetSlider name="BreastsNewSH" size="big" value="25"/>
+        <SetSlider name="BreastsTogether" size="big" value="65"/>
+        <SetSlider name="Butt" size="big" value="100"/>
+        <SetSlider name="ButtNew" size="big" value="100"/>
+        <SetSlider name="ButtShape2" size="big" value="90"/>
+        <SetSlider name="CalfSize" size="big" value="200"/>
+        <SetSlider name="ChubbyArms" size="big" value="52"/>
+        <SetSlider name="ChubbyWaist" size="big" value="25"/>
+        <SetSlider name="CrotchBack" size="big" value="50"/>
+        <SetSlider name="ForearmSize" size="big" value="43"/>
+        <SetSlider name="Groin" size="big" value="150"/>
+        <SetSlider name="HipUpperWidth" size="big" value="-20"/>
+        <SetSlider name="LegShape" size="big" value="100"/>
+        <SetSlider name="MuscularButt" size="big" value="100"/>
+        <SetSlider name="NippleAreola" size="big" value="0"/>
+        <SetSlider name="NippleSize" size="big" value="-50"/>
+        <SetSlider name="NippleUp" size="big" value="100"/>
+        <SetSlider name="ShoulderTweak" size="big" value="100"/>
+        <SetSlider name="SternumDepth" size="big" value="50"/>
+        <SetSlider name="Thighs" size="big" value="100"/>
+        <SetSlider name="Waist" size="big" value="100"/>
+        <SetSlider name="WaistHeight" size="big" value="10"/>
+        <SetSlider name="WideWaistLine" size="big" value="-50"/>
+    </Preset>
+</SliderPresets>

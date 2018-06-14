@@ -1,0 +1,24 @@
+<SliderPresets>
+    <Preset name="2pac&apos;s Favorite" set="CBBE Body">
+        <Group name="CBBE"/>
+        <SetSlider name="ArmpitHeight" size="big" value="32"/>
+        <SetSlider name="Arms" size="big" value="0"/>
+        <SetSlider name="BackArch" size="big" value="0"/>
+        <SetSlider name="Belly" size="big" value="4"/>
+        <SetSlider name="BigBelly" size="big" value="0"/>
+        <SetSlider name="BigTorso" size="big" value="10"/>
+        <SetSlider name="BreastFantasy" size="big" value="20"/>
+        <SetSlider name="BreastHeight" size="big" value="0"/>
+        <SetSlider name="BreastPerkiness" size="big" value="0"/>
+        <SetSlider name="CBBEto2pacMelons" size="big" value="0"/>
+        <SetSlider name="ForearmSize" size="big" value="0"/>
+        <SetSlider name="LegShape" size="big" value="10"/>
+        <SetSlider name="LegsThin" size="big" value="0"/>
+        <SetSlider name="NipplePerk2" size="big" value="0"/>
+        <SetSlider name="PregnancyBelly" size="big" value="0"/>
+        <SetSlider name="ShoulderWidth" size="big" value="0"/>
+        <SetSlider name="Thighs" size="big" value="20"/>
+        <SetSlider name="TummyTuck" size="big" value="0"/>
+        <SetSlider name="toDMwithABS" size="big" value="100"/>
+    </Preset>
+</SliderPresets>

@@ -1,0 +1,8 @@
+<SliderPresets>
+    <Preset name="2pacDoubleMelons" set="CBBE Body">
+        <Group name="CBBE"/>
+        <SetSlider name="CBBEto2pacMelons" size="big" value="100"/>
+        <SetSlider name="ShoulderTweak" size="big" value="0"/>
+        <SetSlider name="ShoulderWidth" size="big" value="0"/>
+    </Preset>
+</SliderPresets>

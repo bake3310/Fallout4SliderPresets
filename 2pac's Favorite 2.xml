@@ -1,0 +1,17 @@
+<SliderPresets>
+    <Preset name="2pac&apos;s Favorite 2" set="CBBE2pac">
+        <Group name="CBBE"/>
+        <SetSlider name="AppleCheeks" size="big" value="7"/>
+        <SetSlider name="ArmpitHeight" size="big" value="32"/>
+        <SetSlider name="Belly" size="big" value="4"/>
+        <SetSlider name="BigTorso" size="big" value="10"/>
+        <SetSlider name="BreastFantasy" size="big" value="30"/>
+        <SetSlider name="ButtCrack" size="big" value="0"/>
+        <SetSlider name="ButtShape2" size="big" value="0"/>
+        <SetSlider name="LegShape" size="big" value="10"/>
+        <SetSlider name="Thighs" size="big" value="20"/>
+        <SetSlider name="melonstoCBBE" size="big" value="100"/>
+        <SetSlider name="toDMWITHABSRIBS" size="big" value="0"/>
+        <SetSlider name="toDMwithABS" size="big" value="100"/>
+    </Preset>
+</SliderPresets>

@@ -1,0 +1,7 @@
+<SliderPresets>
+    <Preset name="2pacTouchedByDibella" set="CBBE Body">
+        <Group name="CBBE"/>
+        <SetSlider name="CBBEto2pacMelons" size="big" value="0"/>
+        <SetSlider name="toTBD" size="big" value="100"/>
+    </Preset>
+</SliderPresets>
