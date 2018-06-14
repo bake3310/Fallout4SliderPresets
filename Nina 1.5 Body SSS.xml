@@ -37,6 +37,7 @@
         <Group name="xy - Grognak Costume"/>
         <Group name="xy - Misty Outfit"/>
         <Group name="xy - Sturges (No Shirt)"/>
+        <Group name="Dicky&apos;sBobmshellPinups"/>
         <SetSlider name="7B Lower" size="big" value="25"/>
         <SetSlider name="7B Upper" size="big" value="5"/>
         <SetSlider name="Ankles" size="big" value="52"/>

@@ -18,6 +18,7 @@
         <Group name="JC-SnJ"/>
         <Group name="Nuka Suit"/>
         <Group name="Sporty Underwear"/>
+        <Group name="Dicky&apos;sBobmshellPinups"/>
         <SetSlider name="Ankles" size="big" value="25"/>
         <SetSlider name="AppleCheeks" size="big" value="40"/>
         <SetSlider name="Belly" size="big" value="15"/>

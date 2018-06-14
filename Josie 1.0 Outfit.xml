@@ -19,6 +19,7 @@
         <Group name="Pampas Mesh"/>
         <Group name="Pampas Physics Replacers"/>
         <Group name="crimsomrider"/>
+        <Group name="Dicky&apos;sBobmshellPinups"/>
         <SetSlider name="Ankles" size="big" value="25"/>
         <SetSlider name="AppleCheeks" size="big" value="40"/>
         <SetSlider name="Belly" size="big" value="15"/>

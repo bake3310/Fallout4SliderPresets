@@ -1,5 +1,5 @@
 <SliderPresets>
-    <Preset name="xy Type 3DCGH" set="ASA Sneakers, Standard, Net">
+    <Preset name="xy Type 3DCGH" set="DickyPinupHeelPhysics">
         <Group name="2pac Skimpy MAIN"/>
         <Group name="2pac bos unform option 1"/>
         <Group name="2pac bos unform option 2"/>
@@ -23,6 +23,7 @@
         <Group name="Pampas"/>
         <Group name="Pampas Physics Replacers"/>
         <Group name="StandardKit"/>
+        <Group name="Dicky&apos;sBobmshellPinups"/>
         <SetSlider name="AppleCheeks" size="big" value="100"/>
         <SetSlider name="AppleCheeks" size="small" value="100"/>
         <SetSlider name="Arms" size="big" value="25"/>
@@ -34,7 +35,7 @@
         <SetSlider name="BigButt" size="small" value="50"/>
         <SetSlider name="BigTorso" size="big" value="0"/>
         <SetSlider name="BreastFlatness2" size="big" value="0"/>
-        <SetSlider name="BreastHeight" size="big" value="0"/>
+        <SetSlider name="BreastHeight" size="big" value="40"/>
         <SetSlider name="BreastHeight" size="small" value="20"/>
         <SetSlider name="BreastPerkiness" size="big" value="50"/>
         <SetSlider name="BreastTopSlope" size="big" value="75"/>
@@ -48,7 +49,7 @@
         <SetSlider name="BreastsNewSH" size="small" value="70"/>
         <SetSlider name="BreastsSmall" size="big" value="-50"/>
         <SetSlider name="BreastsSmall2" size="big" value="-20"/>
-        <SetSlider name="BreastsTogether" size="big" value="29"/>
+        <SetSlider name="BreastsTogether" size="big" value="60"/>
         <SetSlider name="BreastsTogether" size="small" value="40"/>
         <SetSlider name="Butt" size="big" value="30"/>
         <SetSlider name="Butt" size="small" value="100"/>

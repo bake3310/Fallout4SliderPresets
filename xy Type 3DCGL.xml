@@ -19,6 +19,7 @@
         <Group name="Nuka Suit"/>
         <Group name="Sporty Underwear"/>
         <Group name="Toxic Raider"/>
+        <Group name="Dicky&apos;sBobmshellPinups"/>
         <SetSlider name="Arms" size="big" value="25"/>
         <SetSlider name="Belly" size="big" value="15"/>
         <SetSlider name="BreastPerkiness" size="big" value="50"/>

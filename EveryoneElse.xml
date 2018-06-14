@@ -4,6 +4,7 @@
         <Group name="CBBE Bodies"/>
         <Group name="CBBE Vanilla Outfits"/>
         <Group name="crimsomrider"/>
+        <Group name="Dicky&apos;sBobmshellPinups"/>
         <SetSlider name="AppleCheeks" size="big" value="50"/>
         <SetSlider name="AppleCheeks" size="small" value="100"/>
         <SetSlider name="Arms" size="big" value="0"/>

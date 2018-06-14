@@ -32,6 +32,7 @@
         <Group name="xy - Grognak Costume"/>
         <Group name="xy - Misty Outfit"/>
         <Group name="xy - Sturges (No Shirt)"/>
+        <Group name="Dicky&apos;sBobmshellPinups"/>
         <SetSlider name="Ankles" size="big" value="42"/>
         <SetSlider name="AppleCheeks" size="big" value="20"/>
         <SetSlider name="ArmpitHeight" size="big" value="0"/>
