@@ -32,20 +32,20 @@
         <SetSlider name="BreastCenterBig" size="big" value="100"/>
         <SetSlider name="BreastFantasy" size="big" value="10"/>
         <SetSlider name="BreastGravity2" size="big" value="25"/>
-        <SetSlider name="BreastHeight" size="big" value="30"/>
+        <SetSlider name="BreastHeight" size="big" value="0"/>
         <SetSlider name="BreastHeight" size="small" value="20"/>
-        <SetSlider name="BreastPerkiness" size="big" value="-20"/>
+        <SetSlider name="BreastPerkiness" size="big" value="0"/>
         <SetSlider name="BreastTopSlope" size="big" value="100"/>
         <SetSlider name="BreastTopSlope" size="small" value="20"/>
         <SetSlider name="BreastWidth" size="big" value="-10"/>
-        <SetSlider name="Breasts" size="big" value="110"/>
+        <SetSlider name="Breasts" size="big" value="115"/>
         <SetSlider name="Breasts" size="small" value="100"/>
         <SetSlider name="BreastsCleavage" size="big" value="60"/>
         <SetSlider name="BreastsCleavage" size="small" value="40"/>
         <SetSlider name="BreastsNewSH" size="big" value="52"/>
         <SetSlider name="BreastsNewSH" size="small" value="70"/>
-        <SetSlider name="BreastsSmall2" size="big" value="-10"/>
-        <SetSlider name="BreastsTogether" size="big" value="100"/>
+        <SetSlider name="BreastsSmall2" size="big" value="0"/>
+        <SetSlider name="BreastsTogether" size="big" value="76"/>
         <SetSlider name="BreastsTogether" size="small" value="40"/>
         <SetSlider name="Butt" size="small" value="100"/>
         <SetSlider name="ButtShape2" size="big" value="100"/>
@@ -61,7 +61,7 @@
         <SetSlider name="HipBack" size="big" value="20"/>
         <SetSlider name="HipBack" size="small" value="20"/>
         <SetSlider name="HipBone" size="small" value="20"/>
-        <SetSlider name="HipUpperWidth" size="big" value="-40"/>
+        <SetSlider name="HipUpperWidth" size="big" value="0"/>
         <SetSlider name="Hips" size="big" value="-40"/>
         <SetSlider name="LegShape" size="big" value="100"/>
         <SetSlider name="LegShape" size="small" value="100"/>
