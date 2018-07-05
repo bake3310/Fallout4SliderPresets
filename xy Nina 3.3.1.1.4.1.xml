@@ -24,7 +24,8 @@
         <Group name="Lacy Underwear"/>
         <Group name="Monno&apos;s Bikini CBBE"/>
         <Group name="crimsomrider"/>
-        <SetSlider name="AppleCheeks" size="big" value="83"/>
+        <Group name="wetsuit"/>
+        <SetSlider name="AppleCheeks" size="big" value="100"/>
         <SetSlider name="AppleCheeks" size="small" value="100"/>
         <SetSlider name="Arms" size="big" value="25"/>
         <SetSlider name="Arms" size="small" value="25"/>
@@ -44,31 +45,34 @@
         <SetSlider name="BreastsGone" size="big" value="-10"/>
         <SetSlider name="BreastsNewSH" size="big" value="50"/>
         <SetSlider name="BreastsNewSH" size="small" value="70"/>
-        <SetSlider name="BreastsSmall" size="big" value="-20"/>
-        <SetSlider name="BreastsSmall2" size="big" value="-50"/>
-        <SetSlider name="BreastsTogether" size="big" value="50"/>
+        <SetSlider name="BreastsSmall" size="big" value="-50"/>
+        <SetSlider name="BreastsSmall2" size="big" value="-20"/>
+        <SetSlider name="BreastsTogether" size="big" value="40"/>
         <SetSlider name="BreastsTogether" size="small" value="40"/>
         <SetSlider name="Butt" size="small" value="100"/>
+        <SetSlider name="ButtNew" size="big" value="100"/>
         <SetSlider name="ButtShape2" size="big" value="100"/>
         <SetSlider name="CalfSize" size="big" value="35"/>
         <SetSlider name="CalfSize" size="small" value="35"/>
+        <SetSlider name="ChestWidth" size="big" value="50"/>
         <SetSlider name="ChubbyLegs" size="big" value="10"/>
         <SetSlider name="ChubbyLegs" size="small" value="16"/>
         <SetSlider name="ChubbyWaist" size="big" value="30"/>
         <SetSlider name="ChubbyWaist" size="small" value="30"/>
         <SetSlider name="CrotchBack" size="big" value="50"/>
         <SetSlider name="CrotchBack" size="small" value="50"/>
-        <SetSlider name="Groin" size="big" value="100"/>
+        <SetSlider name="Groin" size="big" value="150"/>
         <SetSlider name="HipBack" size="big" value="20"/>
         <SetSlider name="HipBack" size="small" value="20"/>
         <SetSlider name="HipBone" size="small" value="20"/>
         <SetSlider name="HipUpperWidth" size="big" value="-50"/>
-        <SetSlider name="Hips" size="big" value="-40"/>
+        <SetSlider name="Hips" size="big" value="0"/>
         <SetSlider name="LegShape" size="big" value="100"/>
         <SetSlider name="LegShape" size="small" value="100"/>
         <SetSlider name="NippleAreola" size="big" value="100"/>
         <SetSlider name="NipplePerkiness" size="small" value="10"/>
         <SetSlider name="NippleSize" size="big" value="-100"/>
+        <SetSlider name="NippleUp" size="big" value="40"/>
         <SetSlider name="RoundAss" size="big" value="29"/>
         <SetSlider name="RoundAss" size="small" value="15"/>
         <SetSlider name="ShoulderTweak" size="big" value="100"/>

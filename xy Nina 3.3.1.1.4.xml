@@ -1,5 +1,5 @@
 <SliderPresets>
-    <Preset name="xy Nina 3.3.1.1.4" set="DickyPinupBootsPhysics">
+    <Preset name="xy Nina 3.3.1.1.4" set="CBBE Body Physics">
         <Group name="ASA Alex (Cherry&apos;s)"/>
         <Group name="ASA Alex (Josie)"/>
         <Group name="ASA Alex (Josie3.0)"/>
@@ -22,7 +22,7 @@
         <Group name="Lacy Underwear"/>
         <Group name="Monno&apos;s Bikini CBBE"/>
         <Group name="crimsomrider"/>
-	<Group name="wetsuit"/>
+        <Group name="wetsuit"/>
         <SetSlider name="7B Lower" size="big" value="0"/>
         <SetSlider name="7B Upper" size="big" value="0"/>
         <SetSlider name="AppleCheeks" size="big" value="100"/>
@@ -70,7 +70,7 @@
         <SetSlider name="HipBack" size="small" value="20"/>
         <SetSlider name="HipBone" size="small" value="20"/>
         <SetSlider name="HipUpperWidth" size="big" value="-50"/>
-        <SetSlider name="Hips" size="big" value="-40"/>
+        <SetSlider name="Hips" size="big" value="0"/>
         <SetSlider name="LegShape" size="big" value="100"/>
         <SetSlider name="LegShape" size="small" value="100"/>
         <SetSlider name="MuscularArms" size="big" value="0"/>

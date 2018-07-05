@@ -1,0 +1,21 @@
+<SliderPresets>
+    <Preset name="Eli VaultSuitPreset" set="Eli Dark Vault Jumpsuit">
+        <SetSlider name="BackArch" size="big" value="0"/>
+        <SetSlider name="BigTorso" size="big" value="0"/>
+        <SetSlider name="BreastFlatness2" size="big" value="7"/>
+        <SetSlider name="BreastHeight" size="big" value="57"/>
+        <SetSlider name="BreastsCleavage" size="big" value="34"/>
+        <SetSlider name="BreastsGone" size="big" value="32"/>
+        <SetSlider name="BreastsTogether" size="big" value="27"/>
+        <SetSlider name="ButtSmall" size="big" value="61"/>
+        <SetSlider name="CalfSize" size="big" value="100"/>
+        <SetSlider name="ChestDepth" size="big" value="0"/>
+        <SetSlider name="ChestWidth" size="big" value="0"/>
+        <SetSlider name="ChubbyLegs" size="big" value="0"/>
+        <SetSlider name="KneeHeight" size="big" value="56"/>
+        <SetSlider name="SternumHeight" size="big" value="21"/>
+        <SetSlider name="Waist" size="big" value="-50"/>
+        <SetSlider name="WaistHeight" size="big" value="0"/>
+        <SetSlider name="WideWaistLine" size="big" value="0"/>
+    </Preset>
+</SliderPresets>

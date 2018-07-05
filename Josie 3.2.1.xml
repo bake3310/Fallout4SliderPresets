@@ -1,5 +1,5 @@
 <SliderPresets>
-    <Preset name="Josie 3.2.1" set="DickyPinupBootsPhysics">
+    <Preset name="Josie 3.2.1" set="CBBE Body Physics">
         <Group name="ASA Alex (Cherry&apos;s)"/>
         <Group name="ASA Alex (Josie)"/>
         <Group name="ASA Alex (Josie3.0)"/>
@@ -34,13 +34,13 @@
         <SetSlider name="BreastPerkiness" size="big" value="-20"/>
         <SetSlider name="BreastTopSlope" size="big" value="0"/>
         <SetSlider name="BreastWidth" size="big" value="10"/>
-        <SetSlider name="Breasts" size="big" value="100"/>
+        <SetSlider name="Breasts" size="big" value="133"/>
         <SetSlider name="BreastsCleavage" size="big" value="58"/>
         <SetSlider name="BreastsGone" size="big" value="-10"/>
         <SetSlider name="BreastsNewSH" size="big" value="40"/>
         <SetSlider name="BreastsSmall" size="big" value="-20"/>
         <SetSlider name="BreastsSmall2" size="big" value="-20"/>
-        <SetSlider name="BreastsTogether" size="big" value="100"/>
+        <SetSlider name="BreastsTogether" size="big" value="70"/>
         <SetSlider name="Butt" size="big" value="100"/>
         <SetSlider name="ButtNew" size="big" value="100"/>
         <SetSlider name="CalfSize" size="big" value="35"/>
@@ -48,6 +48,7 @@
         <SetSlider name="ChubbyArms" size="big" value="26"/>
         <SetSlider name="ChubbyWaist" size="big" value="25"/>
         <SetSlider name="CrotchBack" size="big" value="50"/>
+        <SetSlider name="DoubleMelon" size="big" value="0"/>
         <SetSlider name="Groin" size="big" value="100"/>
         <SetSlider name="HipUpperWidth" size="big" value="-20"/>
         <SetSlider name="LegShape" size="big" value="100"/>
