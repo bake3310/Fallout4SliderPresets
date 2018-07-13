@@ -57,7 +57,7 @@
         <SetSlider name="ButtShape2" size="big" value="100"/>
         <SetSlider name="CalfSize" size="big" value="35"/>
         <SetSlider name="CalfSize" size="small" value="35"/>
-        <SetSlider name="ChestWidth" size="big" value="50"/>
+        <SetSlider name="ChestWidth" size="big" value="0"/>
         <SetSlider name="ChubbyLegs" size="small" value="16"/>
         <SetSlider name="ChubbyWaist" size="big" value="30"/>
         <SetSlider name="ChubbyWaist" size="small" value="30"/>

@@ -1,5 +1,5 @@
 <SliderPresets>
-    <Preset name="xy Curie 2.0 Outfit" set="ASA Sneakers, Hearts, Net">
+    <Preset name="xy Curie 2.0 Outfit" set="CBBE Body Physics">
         <Group name="2pac Skimpy MAIN"/>
         <Group name="2pac bos unform option 1"/>
         <Group name="2pac bos unform option 2"/>
@@ -51,7 +51,7 @@
         <SetSlider name="BreastsNewSH" size="small" value="70"/>
         <SetSlider name="BreastsSmall" size="big" value="-20"/>
         <SetSlider name="BreastsSmall2" size="big" value="-20"/>
-        <SetSlider name="BreastsTogether" size="big" value="100"/>
+        <SetSlider name="BreastsTogether" size="big" value="30"/>
         <SetSlider name="BreastsTogether" size="small" value="40"/>
         <SetSlider name="Butt" size="big" value="0"/>
         <SetSlider name="Butt" size="small" value="100"/>
@@ -60,6 +60,7 @@
         <SetSlider name="ButtSmall" size="big" value="100"/>
         <SetSlider name="CalfSize" size="big" value="100"/>
         <SetSlider name="CalfSize" size="small" value="35"/>
+        <SetSlider name="ChestWidth" size="big" value="0"/>
         <SetSlider name="ChubbyButt" size="big" value="0"/>
         <SetSlider name="ChubbyLegs" size="small" value="16"/>
         <SetSlider name="ChubbyWaist" size="small" value="30"/>
