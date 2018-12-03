@@ -1,5 +1,5 @@
 <SliderPresets>
-    <Preset name="xy Nina 3.3.1.1.5.1" set="CBBE Body Physics">
+    <Preset name="xy Nina 3.3.1.1.5.1" set="DickyPinupBootsPhysics">
         <Group name="ASA Alex (Cherry&apos;s)"/>
         <Group name="ASA Alex (Josie)"/>
         <Group name="ASA Alex (Josie3.0)"/>
@@ -38,7 +38,7 @@
         <SetSlider name="BreastGravity2" size="big" value="0"/>
         <SetSlider name="BreastHeight" size="small" value="20"/>
         <SetSlider name="BreastPerkiness" size="big" value="-20"/>
-        <SetSlider name="BreastTopSlope" size="big" value="50"/>
+        <SetSlider name="BreastTopSlope" size="big" value="0"/>
         <SetSlider name="BreastTopSlope" size="small" value="20"/>
         <SetSlider name="BreastWidth" size="big" value="-30"/>
         <SetSlider name="Breasts" size="big" value="133"/>

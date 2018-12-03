@@ -1,0 +1,66 @@
+<SliderPresets>
+    <Preset name="/u/forbiddengem" set="CBBE Body Physics">
+        <Group name="2pac Skimpy MAIN"/>
+        <Group name="2pac bos unform option 1"/>
+        <Group name="2pac bos unform option 2"/>
+        <Group name="2pac vault suit with pants"/>
+        <Group name="2pac vault suit with shorts"/>
+        <Group name="ASA Alex (Cherry&apos;s)"/>
+        <Group name="ASA Alex (Josie)"/>
+        <Group name="ASA Alex (Josie3.0)"/>
+        <Group name="ASA Alex (Josie3.1)"/>
+        <Group name="ASA Alex (NBB)"/>
+        <Group name="ASA Alex (Nina1.6.1)"/>
+        <Group name="ASA Alex (SSS)"/>
+        <Group name="ASA Alex (xyNina3.3)"/>
+        <Group name="ASA Alex (xyNina3.3.1)"/>
+        <Group name="ASA Cait"/>
+        <Group name="ASA Cait (xyNina3.3)"/>
+        <Group name="ASA Curie (xyCurie2.0)"/>
+        <Group name="ASA Piper (Josie3.2)"/>
+        <Group name="ASA1"/>
+        <Group name="Apal"/>
+        <Group name="AtomicBeauty"/>
+        <Group name="CBBE"/>
+        <Group name="CBBE Bodies"/>
+        <Group name="CBBE Vanilla Outfits"/>
+        <Group name="CherrysCBBEBodyPhysics"/>
+        <Group name="Courser X-92 Power Suit"/>
+        <Group name="Curie"/>
+        <Group name="Dicky&apos;sBobmshellPinups"/>
+        <Group name="Kuun&apos;s outfits"/>
+        <Group name="Lacy Underwear"/>
+        <Group name="NorthgirlArmorFO4-CBBEPhy"/>
+        <Group name="crimsomrider"/>
+        <SetSlider name="Ankles" size="big" value="25"/>
+        <SetSlider name="AppleCheeks" size="big" value="40"/>
+        <SetSlider name="Belly" size="big" value="15"/>
+        <SetSlider name="BreastCenterBig" size="big" value="100"/>
+        <SetSlider name="BreastFlatness2" size="big" value="-50"/>
+        <SetSlider name="BreastGravity2" size="big" value="-20"/>
+        <SetSlider name="BreastPerkiness" size="big" value="0"/>
+        <SetSlider name="BreastTopSlope" size="big" value="65"/>
+        <SetSlider name="BreastWidth" size="big" value="10"/>
+        <SetSlider name="Breasts" size="big" value="100"/>
+        <SetSlider name="BreastsNewSH" size="big" value="25"/>
+        <SetSlider name="BreastsSmall" size="big" value="-20"/>
+        <SetSlider name="BreastsSmall2" size="big" value="-20"/>
+        <SetSlider name="BreastsTogether" size="big" value="45"/>
+        <SetSlider name="Butt" size="big" value="100"/>
+        <SetSlider name="ButtNew" size="big" value="100"/>
+        <SetSlider name="CalfSize" size="big" value="35"/>
+        <SetSlider name="ChubbyArms" size="big" value="26"/>
+        <SetSlider name="ChubbyWaist" size="big" value="25"/>
+        <SetSlider name="CrotchBack" size="big" value="50"/>
+        <SetSlider name="HipUpperWidth" size="big" value="-20"/>
+        <SetSlider name="LegShape" size="big" value="100"/>
+        <SetSlider name="NippleAreola" size="big" value="20"/>
+        <SetSlider name="NipplePerk2" size="big" value="20"/>
+        <SetSlider name="RoundAss" size="big" value="100"/>
+        <SetSlider name="ShoulderTweak" size="big" value="100"/>
+        <SetSlider name="ShoulderWidth" size="big" value="80"/>
+        <SetSlider name="Thighs" size="big" value="25"/>
+        <SetSlider name="Waist" size="big" value="100"/>
+        <SetSlider name="WaistHeight" size="big" value="10"/>
+    </Preset>
+</SliderPresets>

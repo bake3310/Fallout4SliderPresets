@@ -1,5 +1,5 @@
 <SliderPresets>
-    <Preset name="xy Nina 3.3.1.1" set="DickyPinupHeelPhysics">
+    <Preset name="xy Nina 3.3.1.1" set="ASA Sneakers, Standard, Net">
         <Group name="ASA Alex (Cherry&apos;s)"/>
         <Group name="ASA Alex (Josie)"/>
         <Group name="ASA Alex (Josie3.0)"/>
@@ -22,6 +22,7 @@
         <Group name="Lacy Underwear"/>
         <Group name="Monno&apos;s Bikini CBBE"/>
         <Group name="crimsomrider"/>
+        <SetSlider name="7B Upper" size="big" value="0"/>
         <SetSlider name="AppleCheeks" size="big" value="83"/>
         <SetSlider name="AppleCheeks" size="small" value="100"/>
         <SetSlider name="Arms" size="big" value="25"/>
@@ -33,6 +34,7 @@
         <SetSlider name="BreastFantasy" size="big" value="10"/>
         <SetSlider name="BreastFlatness2" size="big" value="0"/>
         <SetSlider name="BreastGravity2" size="big" value="25"/>
+        <SetSlider name="BreastHeight" size="big" value="0"/>
         <SetSlider name="BreastHeight" size="small" value="20"/>
         <SetSlider name="BreastPerkiness" size="big" value="-20"/>
         <SetSlider name="BreastTopSlope" size="big" value="70"/>
@@ -51,9 +53,14 @@
         <SetSlider name="BreastsTogether" size="small" value="40"/>
         <SetSlider name="Butt" size="big" value="0"/>
         <SetSlider name="Butt" size="small" value="100"/>
+        <SetSlider name="ButtCrack" size="big" value="0"/>
+        <SetSlider name="ButtNew" size="big" value="0"/>
         <SetSlider name="ButtShape2" size="big" value="100"/>
+        <SetSlider name="ButtSmall" size="big" value="0"/>
         <SetSlider name="CalfSize" size="big" value="35"/>
         <SetSlider name="CalfSize" size="small" value="35"/>
+        <SetSlider name="ChestWidth" size="big" value="0"/>
+        <SetSlider name="ChubbyButt" size="big" value="0"/>
         <SetSlider name="ChubbyLegs" size="big" value="10"/>
         <SetSlider name="ChubbyLegs" size="small" value="16"/>
         <SetSlider name="ChubbyWaist" size="big" value="30"/>
@@ -63,11 +70,13 @@
         <SetSlider name="Groin" size="big" value="100"/>
         <SetSlider name="HipBack" size="big" value="20"/>
         <SetSlider name="HipBack" size="small" value="20"/>
+        <SetSlider name="HipBone" size="big" value="0"/>
         <SetSlider name="HipBone" size="small" value="20"/>
         <SetSlider name="HipUpperWidth" size="big" value="-40"/>
         <SetSlider name="Hips" size="big" value="-40"/>
         <SetSlider name="LegShape" size="big" value="100"/>
         <SetSlider name="LegShape" size="small" value="100"/>
+        <SetSlider name="Mesh Stockings" size="big" value="100"/>
         <SetSlider name="NipBGone" size="big" value="95"/>
         <SetSlider name="NippleAreola" size="big" value="40"/>
         <SetSlider name="NippleDistance" size="big" value="-11"/>
@@ -80,6 +89,7 @@
         <SetSlider name="PushUp" size="big" value="10"/>
         <SetSlider name="RoundAss" size="big" value="29"/>
         <SetSlider name="RoundAss" size="small" value="15"/>
+        <SetSlider name="ShoulderSmooth" size="big" value="0"/>
         <SetSlider name="ShoulderTweak" size="big" value="100"/>
         <SetSlider name="ShoulderTweak" size="small" value="100"/>
         <SetSlider name="ShoulderWidth" size="big" value="60"/>
@@ -87,7 +97,10 @@
         <SetSlider name="Thighs" size="big" value="100"/>
         <SetSlider name="Thighs" size="small" value="75"/>
         <SetSlider name="TummyTuck" size="big" value="60"/>
+        <SetSlider name="VanillaFo4" size="big" value="0"/>
+        <SetSlider name="Waist" size="big" value="0"/>
         <SetSlider name="Waist" size="small" value="95"/>
         <SetSlider name="WaistHeight" size="big" value="22"/>
+        <SetSlider name="WideWaistLine" size="big" value="0"/>
     </Preset>
 </SliderPresets>

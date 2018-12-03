@@ -1,5 +1,5 @@
 <SliderPresets>
-    <Preset name="Nina 1.6 Body 1.2boobs THIC" set="CBBE Body Physics">
+    <Preset name="Nina 1.6 Body 1.2boobs THIC" set="ASA Sneakers, Standard, Net">
         <Group name="ASA Alex (Cherry&apos;s)"/>
         <Group name="ASA Alex (Josie)"/>
         <Group name="ASA Alex (Josie3.0)"/>
@@ -83,6 +83,7 @@
         <SetSlider name="LegShape" size="big" value="100"/>
         <SetSlider name="LegShape" size="small" value="100"/>
         <SetSlider name="LegsThin" size="big" value="-50"/>
+        <SetSlider name="Mesh Stockings" size="big" value="100"/>
         <SetSlider name="NippleAreola" size="big" value="35"/>
         <SetSlider name="NippleDistance" size="big" value="25"/>
         <SetSlider name="NipplePerkiness" size="big" value="11"/>
