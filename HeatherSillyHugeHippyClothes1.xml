@@ -1,0 +1,42 @@
+<SliderPresets>
+    <Preset name="HeatherSillyHugeHippyClothes" set="CBBE Body Physics">
+        <Group name="CBBE"/>
+        <Group name="CBBE Bodies"/>
+        <Group name="CBBE Vanilla Outfits"/>
+        <Group name="Courser X-92 Power Suit"/>
+        <Group name="Honest Abe Physics"/>
+        <Group name="Kuun&apos;s outfits"/>
+        <Group name="Lacy Underwear"/>
+        <Group name="Military Operator"/>
+        <SetSlider name="Ankles" size="big" value="40"/>
+        <SetSlider name="AppleCheeks" size="big" value="100"/>
+        <SetSlider name="BreastCenterBig" size="big" value="0"/>
+        <SetSlider name="BreastHeight" size="big" value="100"/>
+        <SetSlider name="BreastPerkiness" size="big" value="0"/>
+        <SetSlider name="BreastTopSlope" size="big" value="0"/>
+        <SetSlider name="BreastWidth" size="big" value="0"/>
+        <SetSlider name="Breasts" size="big" value="100"/>
+        <SetSlider name="BreastsCleavage" size="big" value="100"/>
+        <SetSlider name="BreastsNewSH" size="big" value="30"/>
+        <SetSlider name="BreastsSmall" size="big" value="0"/>
+        <SetSlider name="BreastsSmall2" size="big" value="0"/>
+        <SetSlider name="BreastsTogether" size="big" value="50"/>
+        <SetSlider name="Butt" size="big" value="100"/>
+        <SetSlider name="ButtNew" size="big" value="100"/>
+        <SetSlider name="CalfSize" size="big" value="100"/>
+        <SetSlider name="ChubbyArms" size="big" value="26"/>
+        <SetSlider name="CrotchBack" size="big" value="50"/>
+        <SetSlider name="Hips" size="big" value="100"/>
+        <SetSlider name="LegShape" size="big" value="100"/>
+        <SetSlider name="NippleLength" size="big" value="0"/>
+        <SetSlider name="NipplePerk2" size="big" value="20"/>
+        <SetSlider name="NipplePerkiness" size="big" value="100"/>
+        <SetSlider name="PushUp" size="big" value="30"/>
+        <SetSlider name="RoundAss" size="big" value="100"/>
+        <SetSlider name="ShoulderTweak" size="big" value="100"/>
+        <SetSlider name="ShoulderWidth" size="big" value="80"/>
+        <SetSlider name="Thighs" size="big" value="89"/>
+        <SetSlider name="Waist" size="big" value="100"/>
+        <SetSlider name="WaistHeight" size="big" value="10"/>
+    </Preset>
+</SliderPresets>

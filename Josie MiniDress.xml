@@ -1,0 +1,37 @@
+<SliderPresets>
+    <Preset name="Josie MiniDress" set="MiniDress">
+        <SetSlider name="Ankles" size="big" value="25"/>
+        <SetSlider name="AppleCheeks" size="big" value="50"/>
+        <SetSlider name="Back" size="big" value="0"/>
+        <SetSlider name="Belly" size="big" value="-30"/>
+        <SetSlider name="BreastCenter" size="big" value="0"/>
+        <SetSlider name="BreastCenterBig" size="big" value="0"/>
+        <SetSlider name="BreastGravity2" size="big" value="0"/>
+        <SetSlider name="BreastHeight" size="big" value="100"/>
+        <SetSlider name="BreastPerkiness" size="big" value="0"/>
+        <SetSlider name="BreastTopSlope" size="big" value="0"/>
+        <SetSlider name="BreastWidth" size="big" value="-40"/>
+        <SetSlider name="Breasts" size="big" value="0"/>
+        <SetSlider name="BreastsCleavage" size="big" value="0"/>
+        <SetSlider name="BreastsNewSH" size="big" value="29"/>
+        <SetSlider name="BreastsTogether" size="big" value="0"/>
+        <SetSlider name="Butt" size="big" value="100"/>
+        <SetSlider name="ButtNew" size="big" value="100"/>
+        <SetSlider name="CalfSize" size="big" value="35"/>
+        <SetSlider name="ChestDepth" size="big" value="0"/>
+        <SetSlider name="ChubbyWaist" size="big" value="0"/>
+        <SetSlider name="CrotchBack" size="big" value="100"/>
+        <SetSlider name="DoubleMelon" size="big" value="0"/>
+        <SetSlider name="HipUpperWidth" size="big" value="-20"/>
+        <SetSlider name="LegShape" size="big" value="100"/>
+        <SetSlider name="RoundAss" size="big" value="100"/>
+        <SetSlider name="ShoulderTweak" size="big" value="100"/>
+        <SetSlider name="ShoulderWidth" size="big" value="100"/>
+        <SetSlider name="SternumDepth" size="big" value="100"/>
+        <SetSlider name="SternumHeight" size="big" value="-40"/>
+        <SetSlider name="Thighs" size="big" value="25"/>
+        <SetSlider name="TummyTuck" size="big" value="30"/>
+        <SetSlider name="Waist" size="big" value="0"/>
+        <SetSlider name="WaistHeight" size="big" value="10"/>
+    </Preset>
+</SliderPresets>

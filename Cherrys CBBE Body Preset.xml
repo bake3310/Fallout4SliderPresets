@@ -1,5 +1,5 @@
 <SliderPresets>
-    <Preset name="Cherrys CBBE Body Preset" set="CherrysCBBEBodyPhysics">
+    <Preset name="Cherrys CBBE Body Preset" set="ASA Sneakers, Sporty, Net">
         <Group name="2pac Skimpy MAIN"/>
         <Group name="2pac bos unform option 1"/>
         <Group name="2pac bos unform option 2"/>
@@ -26,7 +26,7 @@
         <SetSlider name="7B Upper" size="big" value="0"/>
         <SetSlider name="Ankles" size="big" value="79"/>
         <SetSlider name="AppleCheeks" size="big" value="75"/>
-        <SetSlider name="Arms" size="big" value="25"/>
+        <SetSlider name="Arms" size="big" value="0"/>
         <SetSlider name="Back" size="big" value="0"/>
         <SetSlider name="BackArch" size="big" value="0"/>
         <SetSlider name="Belly" size="big" value="0"/>
@@ -35,16 +35,16 @@
         <SetSlider name="BreastCenterBig" size="big" value="100"/>
         <SetSlider name="BreastFantasy" size="big" value="0"/>
         <SetSlider name="BreastFlatness2" size="big" value="0"/>
-        <SetSlider name="BreastGravity2" size="big" value="0"/>
+        <SetSlider name="BreastGravity2" size="big" value="100"/>
         <SetSlider name="BreastHeight" size="big" value="0"/>
         <SetSlider name="BreastPerkiness" size="big" value="0"/>
-        <SetSlider name="BreastTopSlope" size="big" value="34"/>
-        <SetSlider name="BreastWidth" size="big" value="52"/>
+        <SetSlider name="BreastTopSlope" size="big" value="0"/>
+        <SetSlider name="BreastWidth" size="big" value="0"/>
         <SetSlider name="Breasts" size="big" value="100"/>
-        <SetSlider name="BreastsCleavage" size="big" value="18"/>
-        <SetSlider name="BreastsNewSH" size="big" value="70"/>
+        <SetSlider name="BreastsCleavage" size="big" value="100"/>
+        <SetSlider name="BreastsNewSH" size="big" value="50"/>
         <SetSlider name="BreastsSmall" size="big" value="0"/>
-        <SetSlider name="BreastsTogether" size="big" value="17"/>
+        <SetSlider name="BreastsTogether" size="big" value="69"/>
         <SetSlider name="Butt" size="big" value="70"/>
         <SetSlider name="ButtNew" size="big" value="67"/>
         <SetSlider name="ButtShape2" size="big" value="38"/>
@@ -55,7 +55,8 @@
         <SetSlider name="ChubbyButt" size="big" value="0"/>
         <SetSlider name="ChubbyWaist" size="big" value="0"/>
         <SetSlider name="CrotchBack" size="big" value="60"/>
-        <SetSlider name="DoubleMelon" size="big" value="26"/>
+        <SetSlider name="DoubleMelon" size="big" value="16"/>
+        <SetSlider name="ForearmSize" size="big" value="45"/>
         <SetSlider name="Groin" size="big" value="28"/>
         <SetSlider name="HipBack" size="big" value="100"/>
         <SetSlider name="HipBone" size="big" value="56"/>
@@ -66,9 +67,10 @@
         <SetSlider name="LegsThin" size="big" value="0"/>
         <SetSlider name="MuscularArms" size="big" value="63"/>
         <SetSlider name="MuscularButt" size="big" value="0"/>
-        <SetSlider name="MuscularChest" size="big" value="100"/>
+        <SetSlider name="MuscularChest" size="big" value="63"/>
         <SetSlider name="MuscularLegs" size="big" value="85"/>
         <SetSlider name="NipBGone" size="big" value="0"/>
+        <SetSlider name="NippleAreola" size="big" value="130"/>
         <SetSlider name="NippleDistance" size="big" value="50"/>
         <SetSlider name="NippleDown" size="big" value="0"/>
         <SetSlider name="NipplePerk2" size="big" value="100"/>
@@ -76,11 +78,12 @@
         <SetSlider name="NippleShape" size="big" value="40"/>
         <SetSlider name="NippleSize" size="big" value="0"/>
         <SetSlider name="NippleTwistUp" size="big" value="0"/>
-        <SetSlider name="NippleUp" size="big" value="0"/>
-        <SetSlider name="PushUp" size="big" value="100"/>
+        <SetSlider name="NippleUp" size="big" value="100"/>
+        <SetSlider name="PushUp" size="big" value="0"/>
         <SetSlider name="RoundAss" size="big" value="47"/>
+        <SetSlider name="ShoulderSmooth" size="big" value="0"/>
         <SetSlider name="ShoulderTweak" size="big" value="100"/>
-        <SetSlider name="ShoulderWidth" size="big" value="80"/>
+        <SetSlider name="ShoulderWidth" size="big" value="0"/>
         <SetSlider name="SternumDepth" size="big" value="0"/>
         <SetSlider name="SternumHeight" size="big" value="0"/>
         <SetSlider name="Thighs" size="big" value="34"/>

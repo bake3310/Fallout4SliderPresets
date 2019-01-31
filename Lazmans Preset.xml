@@ -1,0 +1,16 @@
+<SliderPresets>
+    <Preset name="Lazmans Preset" set="lazman00_nakedbody">
+        <Group name="CBBE"/>
+        <Group name="CBBE Bodies"/>
+        <Group name="CBBE Vanilla Outfits"/>
+        <Group name="Lacy Underwear"/>
+        <Group name="Overboss Outfits"/>
+        <SetSlider name="7B Lower" size="big" value="44"/>
+        <SetSlider name="AppleCheeks" size="big" value="56"/>
+        <SetSlider name="Breasts" size="big" value="79"/>
+        <SetSlider name="BreastsCleavage" size="big" value="20"/>
+        <SetSlider name="BreastsNewSH" size="big" value="14"/>
+        <SetSlider name="BreastsTogether" size="big" value="100"/>
+        <SetSlider name="KneeHeight" size="big" value="100"/>
+    </Preset>
+</SliderPresets>

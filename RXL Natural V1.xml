@@ -1,0 +1,68 @@
+<SliderPresets>
+    <Preset name="RXL Natural V1" set="RXL Jackets and Coats FMaxonCoat">
+        <Group name="CBBE"/>
+        <Group name="CBBE Armor"/>
+        <Group name="CBBE Clothes"/>
+        <Group name="Eli&apos;s Armour Collection"/>
+        <Group name="Evr Amr Prt"/>
+        <Group name="RXL Armorsmith Extended"/>
+        <Group name="RXL Colossus Bodysuit"/>
+        <Group name="RXL Jackets and Coats"/>
+        <Group name="RXL calyps Daisy Nukes"/>
+        <Group name="RXL calyps Harness Wardobe"/>
+        <Group name="RXL calyps Nevernude"/>
+        <Group name="TIE ArmorConv"/>
+        <Group name="TacticalSluttyWardrobe"/>
+        <Group name="TacticalSluttyWardrobe Clothes"/>
+        <SetSlider name="ArmpitHeight" size="big" value="31"/>
+        <SetSlider name="Arms" size="big" value="14"/>
+        <SetSlider name="Back" size="big" value="15"/>
+        <SetSlider name="BackArch" size="big" value="36"/>
+        <SetSlider name="Belly" size="big" value="57"/>
+        <SetSlider name="BigTorso" size="big" value="21"/>
+        <SetSlider name="BreastCenter" size="big" value="58"/>
+        <SetSlider name="BreastCenterBig" size="big" value="33"/>
+        <SetSlider name="BreastHeight" size="big" value="3"/>
+        <SetSlider name="BreastTopSlope" size="big" value="91"/>
+        <SetSlider name="Breasts" size="big" value="34"/>
+        <SetSlider name="BreastsNewSH" size="big" value="5"/>
+        <SetSlider name="BreastsSmall" size="big" value="11"/>
+        <SetSlider name="BreastsSmall2" size="big" value="16"/>
+        <SetSlider name="BreastsTogether" size="big" value="69"/>
+        <SetSlider name="Butt" size="big" value="26"/>
+        <SetSlider name="ButtCrack" size="big" value="58"/>
+        <SetSlider name="ButtNew" size="big" value="42"/>
+        <SetSlider name="ButtShape2" size="big" value="43"/>
+        <SetSlider name="ButtSmall" size="big" value="82"/>
+        <SetSlider name="ChestWidth" size="big" value="66"/>
+        <SetSlider name="ChubbyArms" size="big" value="8"/>
+        <SetSlider name="ChubbyButt" size="big" value="36"/>
+        <SetSlider name="ChubbyLegs" size="big" value="16"/>
+        <SetSlider name="ChubbyWaist" size="big" value="50"/>
+        <SetSlider name="CrotchBack" size="big" value="73"/>
+        <SetSlider name="DoubleMelon" size="big" value="30"/>
+        <SetSlider name="Groin" size="big" value="31"/>
+        <SetSlider name="HipBack" size="big" value="28"/>
+        <SetSlider name="HipBone" size="big" value="54"/>
+        <SetSlider name="HipUpperWidth" size="big" value="51"/>
+        <SetSlider name="Hips" size="big" value="66"/>
+        <SetSlider name="KneeHeight" size="big" value="77"/>
+        <SetSlider name="LegShape" size="big" value="35"/>
+        <SetSlider name="LegsThin" size="big" value="65"/>
+        <SetSlider name="NippleDistance" size="big" value="61"/>
+        <SetSlider name="NippleDown" size="big" value="11"/>
+        <SetSlider name="NipplePerk2" size="big" value="23"/>
+        <SetSlider name="NipplePerkiness" size="big" value="18"/>
+        <SetSlider name="NippleSize" size="big" value="100"/>
+        <SetSlider name="NippleUp" size="big" value="8"/>
+        <SetSlider name="PregnancyBelly" size="big" value="2"/>
+        <SetSlider name="PushUp" size="big" value="11"/>
+        <SetSlider name="ShoulderTweak" size="big" value="100"/>
+        <SetSlider name="ShoulderWidth" size="big" value="36"/>
+        <SetSlider name="Thighs" size="big" value="25"/>
+        <SetSlider name="TummyTuck" size="big" value="34"/>
+        <SetSlider name="Waist" size="big" value="54"/>
+        <SetSlider name="WaistHeight" size="big" value="29"/>
+        <SetSlider name="WideWaistLine" size="big" value="20"/>
+    </Preset>
+</SliderPresets>
