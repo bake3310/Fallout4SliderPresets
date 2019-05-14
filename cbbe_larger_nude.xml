@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="cbbe_larger_nude" set="CBBE Body">
+        <Group name="CBBE"/>
+        <Group name="CBBE Bodies"/>
+        <SetSlider name="7B Lower" size="big" value="55"/>
+        <SetSlider name="7B Upper" size="big" value="13"/>
+        <SetSlider name="Ankles" size="big" value="65"/>
+        <SetSlider name="Back" size="big" value="25"/>
+        <SetSlider name="BackArch" size="big" value="21"/>
+        <SetSlider name="BreastCenter" size="big" value="5"/>
+        <SetSlider name="BreastCenterBig" size="big" value="55"/>
+        <SetSlider name="BreastFantasy" size="big" value="5"/>
+        <SetSlider name="BreastGravity2" size="big" value="15"/>
+        <SetSlider name="BreastHeight" size="big" value="2"/>
+        <SetSlider name="BreastPerkiness" size="big" value="25"/>
+        <SetSlider name="BreastWidth" size="big" value="-10"/>
+        <SetSlider name="Breasts" size="big" value="100"/>
+        <SetSlider name="BreastsCleavage" size="big" value="10"/>
+        <SetSlider name="BreastsSmall2" size="big" value="2"/>
+        <SetSlider name="BreastsTogether" size="big" value="35"/>
+        <SetSlider name="ButtNew" size="big" value="5"/>
+        <SetSlider name="ButtShape2" size="big" value="5"/>
+        <SetSlider name="CalfSize" size="big" value="-20"/>
+        <SetSlider name="CalfSmooth" size="big" value="10"/>
+        <SetSlider name="ChestWidth" size="big" value="1"/>
+        <SetSlider name="ChubbyWaist" size="big" value="9"/>
+        <SetSlider name="CrotchBack" size="big" value="10"/>
+        <SetSlider name="DoubleMelon" size="big" value="5"/>
+        <SetSlider name="Groin" size="big" value="2"/>
+        <SetSlider name="LegsThin" size="big" value="50"/>
+        <SetSlider name="NippleLength" size="big" value="9"/>
+        <SetSlider name="NipplePerk2" size="big" value="9"/>
+        <SetSlider name="NipplePerkiness" size="big" value="9"/>
+        <SetSlider name="NippleSize" size="big" value="35"/>
+        <SetSlider name="NippleUp" size="big" value="20"/>
+        <SetSlider name="ShoulderSmooth" size="big" value="5"/>
+        <SetSlider name="ShoulderWidth" size="big" value="15"/>
+        <SetSlider name="SternumDepth" size="big" value="15"/>
+        <SetSlider name="Thighs" size="big" value="-10"/>
+        <SetSlider name="TummyTuck" size="big" value="25"/>
+        <SetSlider name="Waist" size="big" value="-10"/>
+    </Preset>
+</SliderPresets>
